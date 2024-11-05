@@ -1,0 +1,7 @@
+id = "autocommit"
+name = "autocommit"
+version = "0.0.1"
+schema_version = 1
+authors = ["Roro"]
+description = "I can never seem to commit to anything? Maybe this will help"
+repository = "https://github.com/roronotalt/autocommit"
